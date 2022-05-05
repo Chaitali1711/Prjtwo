@@ -1,13 +1,13 @@
 
 import React from 'react'
 
-function Two (){
+function Three (){
     return(
         <div>
-            <h1>page two </h1>
+            <h1>page Three </h1>
         </div>
     )
 }
 
 
-export default Two;
+export default Three;
